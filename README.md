@@ -32,4 +32,4 @@ App de gerenciamento de tarefas com filtros, prioridades e modo escuro, feito em
 
 ## 📫 Contato
 
-[LinkedIn] https://www.linkedin.com/in/jo%C3%A3o-victor-stavarengo-silva-78776a236/ · [Email] joaovictorstavarengo@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/joão-victor-stavarengo-silva-78776a236/) · [Email](mailto:joaovictorstavarengo@gmail.com)
