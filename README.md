@@ -1,35 +1,33 @@
-# Olá, eu sou o João Victor 👋
+# João Victor Stavarengo
 
-Estudante de desenvolvimento Front-end, focado em construir interfaces bonitas, funcionais e responsivas.
+Desenvolvedor front-end com foco em React + TypeScript, e back-end em FastAPI. Construo interfaces simples, rápidas e com personalidade — do layout à API.
 
-🔭 Atualmente estudando **React** e me aprofundando em **TypeScript**
-🌱 Explorando boas práticas de código e testes automatizados
-📍 São Paulo, SP
+Cursando Análise e Desenvolvimento de Sistemas (conclusão em 2026), com vivência em e-commerce e marketplaces, em busca da primeira vaga júnior.
 
----
+**Portfólio:** [victorstavarengo.vercel.app](https://victorstavarengo.vercel.app)
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### [Catálogo de Jogos (CRUD)](https://github.com/VictorStavarengo/crud-jogos)
-Aplicação full front-end com React, Vite e Tailwind CSS, consumindo a API da RAWG.io para cadastro e gerenciamento de jogos.
-**[Ver demo ao vivo →](https://crud-jogos.vercel.app/)**
+### [Pulso — pedidos em tempo real](https://github.com/VictorStavarengo/pulso-webhooks)
+Painel que recebe webhooks assinados (HMAC) de marketplaces como Mercado Livre e Shopify, consolida os pedidos por loja e alerta a equipe sobre atrasos, cancelamentos e tickets altos.
+`React 19` `TypeScript` `FastAPI` `SQLAlchemy` `SSE` `Docker` · [demo ao vivo](https://pulso-api-2uc9.onrender.com)
+
+### [Catálogo de Jogos](https://github.com/VictorStavarengo/crud-jogos-v2)
+CRUD de jogos com busca na RAWG, filtros, arrastar e soltar e backup local.
+`React` `TypeScript` `Tailwind CSS` `dnd-kit` `Vite` · [demo ao vivo](https://crud-jogos-v2.vercel.app)
 
 ### [Pokédex Kanto](https://github.com/VictorStavarengo/pokedex-kanto)
-Pokédex interativa em HTML, CSS e JavaScript puro, consumindo a PokéAPI em tempo real.
-**[Ver demo ao vivo →](https://victorstavarengo.github.io/pokedex-kanto/)**
+Pokédex interativa consumindo a PokéAPI em tempo real, com busca e detalhes dos Pokémon.
+`HTML5` `CSS3` `JavaScript` · [demo ao vivo](https://victorstavarengo.github.io/pokedex-kanto/)
 
-### [Lista de Tarefas Avançada](https://github.com/VictorStavarengo/to-do-list)
-App de gerenciamento de tarefas com filtros, prioridades e modo escuro, feito em JavaScript puro.
-**[Ver demo ao vivo →](https://victorstavarengo.github.io/to-do-list/)**
+### [Lista de Tarefas](https://github.com/VictorStavarengo/to-do-list)
+App de gerenciamento de tarefas com filtros, prioridades e modo escuro.
+`HTML5` `CSS3` `JavaScript` · [demo ao vivo](https://victorstavarengo.github.io/to-do-list/)
 
----
+## Tecnologias
 
-## 🛠️ Tecnologias
+`React` `TypeScript` `Angular` `JavaScript (ES6+)` `Tailwind CSS` `HTML5` `CSS3` `Python` `FastAPI` `SQL` `Docker` `Git & GitHub`
 
-`HTML5` `CSS3` `JavaScript (ES6+)` `React` `Tailwind CSS` `Vite`
+## Contato
 
----
-
-## 📫 Contato
-
-[LinkedIn](https://www.linkedin.com/in/joão-victor-stavarengo-silva-78776a236/) · [Email](mailto:joaovictorstavarengo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-stavarengo-silva-78776a236/) · [Portfólio](https://victorstavarengo.vercel.app) · [Email](mailto:joaovictorstavarengo@gmail.com)
