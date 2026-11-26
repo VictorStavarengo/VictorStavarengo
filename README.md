@@ -10,7 +10,7 @@ Cursando Análise e Desenvolvimento de Sistemas (conclusão em 2026), com vivên
 
 ### [Pulso — pedidos em tempo real](https://github.com/VictorStavarengo/pulso-webhooks)
 Painel que recebe webhooks assinados (HMAC) de marketplaces como Mercado Livre e Shopify, consolida os pedidos por loja e alerta a equipe sobre atrasos, cancelamentos e tickets altos.
-`React 19` `TypeScript` `FastAPI` `SQLAlchemy` `SSE` `Docker` · [demo ao vivo](https://pulso-api-2uc9.onrender.com)
+`React 19` `TypeScript` `FastAPI` `SQLAlchemy` `SSE` `Docker` · [demo ao vivo](https://pulso-api-2uc9.onrender.com) (primeira visita pode levar ~1 min)
 
 ### [Encaixe — agendamentos para pequenos negócios](https://github.com/VictorStavarengo/encaixe)
 Plataforma de agendamento com página pública por slug, login com GitHub e reserva sem conflito de horário, garantida por índice único parcial no Postgres.
@@ -30,7 +30,7 @@ App de gerenciamento de tarefas com filtros, prioridades e modo escuro.
 
 ## Tecnologias
 
-`React` `Next.js` `TypeScript` `Angular` `JavaScript (ES6+)` `Tailwind CSS` `HTML5` `CSS3` `Python` `FastAPI` `PostgreSQL` `Prisma` `Docker` `Git & GitHub`
+`React` `Next.js` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `HTML5` `CSS3` `Python` `FastAPI` `PostgreSQL` `Prisma` `Docker` `Git & GitHub`
 
 ## Contato
 
