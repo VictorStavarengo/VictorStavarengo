@@ -4,7 +4,7 @@ Desenvolvedor front-end com foco em React + TypeScript, e back-end em FastAPI. C
 
 Cursando Análise e Desenvolvimento de Sistemas (conclusão em 2026), com vivência em e-commerce e marketplaces, em busca da primeira vaga júnior.
 
-**Portfólio:** [victorstavarengo.vercel.app](https://victorstavarengo.vercel.app)
+**Portfólio:** [jvstavarengo.vercel.app](https://jvstavarengo.vercel.app)
 
 ## Projetos em destaque
 
@@ -34,4 +34,4 @@ App de gerenciamento de tarefas com filtros, prioridades e modo escuro.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-stavarengo-silva-78776a236/) · [Portfólio](https://victorstavarengo.vercel.app) · [Email](mailto:joaovictorstavarengo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-stavarengo-silva-78776a236/) · [Portfólio](https://jvstavarengo.vercel.app) · [Email](mailto:joaovictorstavarengo@gmail.com)
